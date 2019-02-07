@@ -4,7 +4,7 @@ class lol extends Component {
   render() {
     return (
       <div className="App">
-        <h1>Hello Ahmed</h1>
+        <h1>Hello World</h1>
       </div>
     );
   }

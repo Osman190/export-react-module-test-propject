@@ -1,6 +1,8 @@
 {
   "name": "import-react-test-app",
   "version": "0.1.0",
+  "description": "test-package",
+  "main": "index.js",
   "private": true,
   "dependencies": {
     "react": "^16.8.1",
@@ -22,8 +24,6 @@
     "not ie <= 11",
     "not op_mini all"
   ],
-  "description": "tes-package",
-  "main": "App.js",
   "devDependencies": {},
   "repository": {
     "type": "git",
